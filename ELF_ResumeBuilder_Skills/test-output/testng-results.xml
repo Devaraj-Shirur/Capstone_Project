@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Successfully Launched Chrome Browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser window is maximized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Frontend Technologies Selected Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Middleware Technologies Selected Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Backend Technologies Selected Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Designe Patterns Selected Successfully]]>
+    </line>
+    <line>
+      <![CDATA[ata Base Used Selected Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Version Control System Selected Successfully]]>
+    </line>
+    <line>
+      <![CDATA[AWS Selected Successfully]]>
+    </line>
+    <line>
+      <![CDATA[SDLC Selected Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Development Tool Selected Successfully]]>
+    </line>
+    <line>
+      <![CDATA[DOWNLOADED SUCCESSFULLY]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-03-02T19:04:02 IST" name="Default suite" finished-at="2022-03-02T19:04:15 IST" duration-ms="12915">
+    <groups>
+    </groups>
+    <test started-at="2022-03-02T19:04:02 IST" name="Default test" finished-at="2022-03-02T19:04:15 IST" duration-ms="12915">
+      <class name="skills.RB_SKILLS_TC121">
+        <test-method is-config="true" signature="openTheBrowser(java.lang.String)[pri:0, instance:skills.RB_SKILLS_TC121@378542de]" started-at="2022-03-02T19:04:02 IST" name="openTheBrowser" finished-at="2022-03-02T19:04:06 IST" duration-ms="3832" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully Launched Chrome Browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser window is maximized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openTheBrowser -->
+        <test-method is-config="true" signature="navigateToApplication()[pri:0, instance:skills.RB_SKILLS_TC121@378542de]" started-at="2022-03-02T19:04:06 IST" name="navigateToApplication" finished-at="2022-03-02T19:04:08 IST" duration-ms="2038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToApplication -->
+        <test-method signature="meanResumeBuild()[pri:0, instance:skills.RB_SKILLS_TC121@378542de]" started-at="2022-03-02T19:04:08 IST" name="meanResumeBuild" finished-at="2022-03-02T19:04:14 IST" duration-ms="6322" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Frontend Technologies Selected Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Middleware Technologies Selected Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Backend Technologies Selected Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Designe Patterns Selected Successfully]]>
+            </line>
+            <line>
+              <![CDATA[ata Base Used Selected Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Version Control System Selected Successfully]]>
+            </line>
+            <line>
+              <![CDATA[AWS Selected Successfully]]>
+            </line>
+            <line>
+              <![CDATA[SDLC Selected Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Development Tool Selected Successfully]]>
+            </line>
+            <line>
+              <![CDATA[DOWNLOADED SUCCESSFULLY]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- meanResumeBuild -->
+        <test-method is-config="true" signature="closeTheBrowser()[pri:0, instance:skills.RB_SKILLS_TC121@378542de]" started-at="2022-03-02T19:04:14 IST" name="closeTheBrowser" finished-at="2022-03-02T19:04:15 IST" duration-ms="662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+      </class> <!-- skills.RB_SKILLS_TC121 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
