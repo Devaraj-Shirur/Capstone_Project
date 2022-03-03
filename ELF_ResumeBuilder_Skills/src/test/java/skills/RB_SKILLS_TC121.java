@@ -12,7 +12,11 @@ import genericLibrary.ExcelUtil;
 import pomRepository.EducationPage;
 import pomRepository.ProfilePage;
 import pomRepository.SkillsPage;
-
+/***
+ * 
+ * @author Devaraj Shirur
+ *
+ */
 public class RB_SKILLS_TC121 extends Base_Class {
 	@Test
 	public void meanResumeBuild() {
